@@ -1,0 +1,35 @@
+body{
+    background-color:rgba(244, 247, 169, 0.212);
+    color:rgba(0, 0, 0, 0.884);
+  
+}
+
+footer {
+    text-align: right;
+    background-color: gainsboro;
+
+}
+h1 {
+    color: rgb(0, 0, 0);
+    
+    font-size: 68px;
+}
+h2, h3, h4 {
+    color: brown;
+ 
+}
+p {
+text-align: justify;
+text-indent: 8ch;
+}
+
+            .container {
+                position: relative;
+                text-align: center;
+             
+            }
+            .bottom-left {
+                position: absolute;
+                bottom: 8px;
+                left: 16px;
+            }
